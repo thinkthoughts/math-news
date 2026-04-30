@@ -74,9 +74,9 @@ Notebook → Figure → Observation → Post → Distribution
 ## Links (to be populated)
 
 * Site: [https://mathnews.app](https://mathnews.app)
-* GitHub: [https://github.com/math-news](https://github.com/math-news)
+* GitHub: [https://github.com/thinkthoughts/math-news](https://github.com/thinkthoughts/math-news)
 * Substack: [https://mathnews.substack.com](https://mathnews.substack.com)
-* YouTube: [https://youtube.com/@mathnews](https://youtube.com/@mathnews)
+* YouTube: [https://youtube.com/@mathnews](https://youtube.com/@danhawkley)
 * Patreon: [https://patreon.com/mathnews](https://patreon.com/mathnews)
 
 ---
